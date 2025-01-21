@@ -1,4 +1,4 @@
-# İleri C++ Eğitimi
+# İleri C Eğitimi
 Bu bölümde Dinamik Bellek Yönetimi Konusuna değinilmiştir.
 
 <ul>      
