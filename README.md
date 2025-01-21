@@ -6,9 +6,4 @@ Bu bölümde Dinamik Bellek Yönetimi Konusuna değinilmiştir.
       <li><a href="https://github.com/kutayozturk/ileri-c/blob/main/02%20-%20malloc%20Fonksiyonu%20Kullan%C4%B1m%C4%B1.c">malloc Fonksiyonu Kullanımı</a></li>
       <li><a href="https://github.com/kutayozturk/ileri-c/blob/main/03%20-%20calloc%20Fonksiyonu%20Kullan%C4%B1m%C4%B1.c">calloc Fonksiyonu Kullanımı</a></li>
       <li><a href="https://github.com/kutayozturk/ileri-c/blob/main/04%20-%20realloc%20Fonksiyonu%20Kullan%C4%B1m%C4%B1.c">realloc Fonksiyonu Kullanımı</a></li>
-
-     
-
-      
-      
 </ul>
